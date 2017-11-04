@@ -79,14 +79,7 @@ public static void merge(int[] inputArr, int l, int r, int m){
 
 }
 
-// Method to swap two elements of an array:
-public static void swap(int[] inputArr, int i, int j){
 
-        int temp;
-        temp = inputArr[i];
-        inputArr[i] = inputArr[j];
-        inputArr[j] = temp;
-}
 
 // Main function to test the program:
 public static void main(String[] args) {
